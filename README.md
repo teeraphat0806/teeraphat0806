@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 Hi, I'm Teeraphat Jirapasnitilert</h1>
 
 ###
 
@@ -19,7 +19,19 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Teeraphat Jirapasnitilert<br><br>Software Developer | Full-Stack Web Developer   <br><br>Experienced in real-world software development and client projects, with a focus on building reliable business applications and optimizing business processes. I specialize in modern web technologies and have a strong foundation in creating secure, scalable solutions.  <br><br>🚀 Technical Skills<br>    Frontend: React, Next.js, Vue, Nuxt, Tailwind CSS, Flutter   <br>    Backend: Node.js, Prisma ORM, TypeORM, Zod   <br>    Database: PostgreSQL, MySQL, Oracle Database, Minio   <br>    DevOps & Tools: Git, Docker, Jira, Figma, Postman   <br><br>🛠️ Featured Project<br>SSW Steel Business Management System   <br>    Developed a full-stack web application to digitize industrial workflows, replacing manual processes.  <br>    Integrated OCR and AI for automated Purchase Order (PO) processing and structured data extraction.  <br><br>    Awarded The Best Presentation Award at Science Exhibition Day 2026.  <br><br>🛡️ Passionate about Cybersecurity<br>Outside of core development, I have a deep interest in security and vulnerability research to ensure I write safer code:<br>    Self-Learning: Active explorer on HackTheBox and TryHackMe.<br>    Research: Studying HackerOne disclosure reports to understand real-world attack vectors.<br>    Tools: Familiar with Netcat, Metasploit, Gobuster, and Nmap.<br>    Training: Completed Penetration Tester Training (depa & Prime Digital Consultant) and hold an IT Specialist Cybersecurity certification.  <br><br>📜 Education & Achievements<br>    Bachelor of Science in Computer Science, KMUTNB (GPAX 3.03)   <br><br>I believe that great software isn't just about functionality, but also about security and performance.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teeraphat0806/teeraphat0806/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teeraphat0806/teeraphat0806/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/teeraphat0806/teeraphat0806/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="left">Software Developer | Full-Stack Web Developer   <br><br>Experienced in real-world software development and client projects, with a focus on building reliable business applications and optimizing business processes. I specialize in modern web technologies and have a strong foundation in creating secure, scalable solutions.  <br><br>🚀 Technical Skills<br>    Frontend: React, Next.js, Vue, Nuxt, Tailwind CSS, Flutter   <br>    Backend: Node.js, Prisma ORM, TypeORM, Zod   <br>    Database: PostgreSQL, MySQL, Oracle Database, Minio   <br>    DevOps & Tools: Git, Docker, Jira, Figma, Postman   <br><br>🛠️ Featured Project<br>SSW Steel Business Management System   <br>    Developed a full-stack web application to digitize industrial workflows, replacing manual processes.  <br>    Integrated OCR and AI for automated Purchase Order (PO) processing and structured data extraction.  <br><br>    Awarded The Best Presentation Award at Science Exhibition Day 2026.  <br><br>🛡️ Passionate about Cybersecurity<br>Outside of core development, I have a deep interest in security and vulnerability research to ensure I write safer code:<br>    Self-Learning: Active explorer on HackTheBox and TryHackMe.<br>    Research: Studying HackerOne disclosure reports to understand real-world attack vectors.<br>    Tools: Familiar with Netcat, Metasploit, Gobuster, and Nmap.<br>    Training: Completed Penetration Tester Training (depa & Prime Digital Consultant) and hold an IT Specialist Cybersecurity certification.  <br><br>📜 Education & Achievements<br>    Bachelor of Science in Computer Science, KMUTNB (GPAX 3.03)   <br><br>I believe that great software isn't just about functionality, but also about security and performance.</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/teeraphat0806/teeraphat0806/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -63,6 +75,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Growth & Performance</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teeraphat0806&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teeraphat0806&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=teeraphat0806&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
